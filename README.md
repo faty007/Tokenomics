@@ -1,4 +1,4 @@
-# tokenomics
+# Tokenomics
 LZC token distribution
 Total issue of 100,000 LZC
 
@@ -12,5 +12,4 @@ Total issue of 100,000 LZC
     Operating Costs 5,000 (5%) USED ON REQUIREMENTS.
     Token issuance burning and modification, no provision.
     
-    [Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_gNWtiGqV.png?quality=85&width=693&webp=1)
    
