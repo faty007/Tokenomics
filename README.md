@@ -12,5 +12,5 @@ Total issue of 100,000 LZC
     Operating Costs 5,000 (5%) USED ON REQUIREMENTS.
     Token issuance burning and modification, no provision.
     
-    https://en.tcpcoins.net/tokenomics
+    (https://en.tcpcoins.net/tokenomics)
    
