@@ -13,3 +13,6 @@
 - ✅ Operating Costs 5,000 (5%) USED ON REQUIREMENTS.
 - ✅ Token issuance burning and modification, no provision.
 - 🌐  Whitepaper - [Tokenomics](https://tcpcoins.net/whitepaper)
+
+- Business model for using LizaCoin token...
+![Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_hnBT2AMH.png?quality=85&width=1366&webp=1)
