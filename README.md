@@ -13,5 +13,4 @@
 - ✅ Burning no
 - 🌐  Whitepaper - [Tokenomics](https://tcpcoins.net/whitepaper)
 
-- 👀 Business model for using LizaCoin token...
-
+- 👀 Buy Tax - 0% Sell Tax - 0% Transfer Tax - 0%
