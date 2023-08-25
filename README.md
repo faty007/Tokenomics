@@ -11,6 +11,6 @@
 - ✅ CEX/DEX listing - 10,000 (10%)
 - ✅ Command tokens - 0%
 - ✅ Burning no
-- 🌐  Whitepaper - [Tokenomics](https://tcpcoins.net/whitepaper)
-
 - 👀 Buy Tax - 0% Sell Tax - 0% Transfer Tax - 0%
+
+- 🌐 [Website]((https://en.tcpcoins.net/)https://en.tcpcoins.net/)
