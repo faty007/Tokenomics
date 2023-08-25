@@ -10,7 +10,7 @@
 - ✅ Marketing - 5,000 (5%)
 - ✅ CEX/DEX listing - 10,000 (10%)
 - ✅ Command tokens - 0%
-- ✅ Burning no
+- ✅ Burning – 0%
 - 👀 Buy Tax - 0% Sell Tax - 0% Transfer Tax - 0%
 
 - 🌐 [Website]((https://en.tcpcoins.net/)https://en.tcpcoins.net/)
