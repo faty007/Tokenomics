@@ -12,7 +12,7 @@
 - ✅ Staking - 10000 (10%)
 - ✅ Marketig – 5000 (5%)
 - ✅ Listing - 12000 (12%)
-- 
+  
 - 👀 Buy Tax - 0% Sell Tax - 0% Transfer Tax - 0%
 - Burning – 0%
 - Team - 0%
