@@ -1,7 +1,7 @@
 # Tokenomics
 ![Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_GBnXKvDd.png?quality=85&width=981&webp=1)
 - 👀 LZC token distribution
-- 💠 Total issue of 100,000 LZC
+- 💠 Total issue of 100000 LZC
 
 - ✅ AirDrop - 5000 (5%)
 - ✅ PreSale 1 – 30000 (30%)
